@@ -15,6 +15,16 @@ class ItemsController < ApplicationController
 		end
 	end
 
+	def new; end
+
+	def show; end
+
+	def edit; end
+
+	def update; end
+
+	def destroy; end
+
 	private
 
 	def items_params
